@@ -1,8 +1,14 @@
+### Note: This is not a long-term fork
+
+This is a fork of [Nuxtent](https://github.com/nuxt-community/nuxtent-module) with some additional features. 
+It is my goal to merge these changes back upstream, and distcontinue this fork once that's done. 
+
+If you'd like to help out with that, or if you have any questions, please [join our chat on Gitter](https://gitter.im/nuxtent/Lobby).
+
 # Nuxtdown
 
 Support for markdown content in your nuxt.js site.
 
-> Note: This is a fork of [Nuxtent](https://github.com/nuxt-community/nuxtent-module) with some additional features.
 
 ## Summary
 
